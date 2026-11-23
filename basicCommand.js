@@ -1,1 +1,1 @@
-console.log("hello");
+console.log("You are in basicCommand .js");
